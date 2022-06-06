@@ -1,7 +1,7 @@
 # Electronic-Flight-Bag-System
 EFB电子飞行包（仅供模拟飞行查阅航图使用）
 
-#安装/部署方法
+# 安装/部署方法
 
 克隆后运行index.html即可
 
